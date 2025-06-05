@@ -12,11 +12,16 @@ A clean, responsive weather app built with HTML, CSS, and JavaScript. Users can 
 
 ## 📸 Demo
 
-![Weather App Screenshot](sc1.png)
-![Weather App Screenshot](sc2.png)
-![Weather App Screenshot](sc3.png)
+📱 Responsive Design
+This app is fully responsive and works smoothly across desktop and mobile screens.
 
-> _(Replace with your actual screenshot or a deployed link preview)_
+✨ Screenshot
+
+<p align="center">
+  <img src="sc1.png" alt="Desktop View" width="200"/>
+  <img src="sc3.png" alt="Mobile View" width="200"/>
+  <img src="sc2.png" alt="Desktop View" width="200"/>
+</p>
 
 ## 🛠️ Technologies Used
 
@@ -40,13 +45,3 @@ A clean, responsive weather app built with HTML, CSS, and JavaScript. Users can 
    Open index.html in your browser
    Or use a Live Server extension in VS Code for live preview.
    ```
-
-📱 Responsive Design
-This app is fully responsive and works smoothly across desktop and mobile screens.
-
-✨ Screenshot
-
-(Replace with a screenshot for mobile view)
-
-📄 License
-This project is open source and available under the MIT License.
