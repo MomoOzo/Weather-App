@@ -18,9 +18,9 @@ This app is fully responsive and works smoothly across desktop and mobile screen
 ✨ Screenshot
 
 <p align="center">
-  <img src="sc1.png" alt="Desktop View" width="200"/>
-  <img src="sc3.png" alt="Mobile View" width="200"/>
-  <img src="sc2.png" alt="Desktop View" width="200"/>
+  <img src="sc1.png" alt="Desktop View" width="200" height="200"/>
+  <img src="sc3.png" alt="Mobile View" width="200" height="200"/>
+  <img src="sc2.png" alt="Desktop View" width="200" height="200"/>
 </p>
 
 ## 🛠️ Technologies Used
